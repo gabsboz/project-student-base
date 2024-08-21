@@ -1,0 +1,118 @@
+# depslib dependency file v1.0
+1705887465 source:c:\users\gabry\onedrive\desktop\pb\robimy\wypisanie.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+
+1705888548 source:c:\users\gabry\onedrive\desktop\pb\robimy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	"wypisanie.c"
+	"wczytaj.h"
+	"srednia.h"
+	"ileniezdaje.h"
+	"najlepsi.h"
+	"zapisywanie.h"
+	"zapiszdopliku.h"
+	"dodajos.h"
+	"skreslenie.h"
+	"dodajoc.h"
+	"edytor.h"
+	"edycja.h"
+
+1705887465 c:\users\gabry\onedrive\desktop\pb\robimy\wypisanie.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+
+1705887576 c:\users\gabry\onedrive\desktop\pb\robimy\wczytaj.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+
+1705887653 c:\users\gabry\onedrive\desktop\pb\robimy\wczytaj.h
+
+1705887735 c:\users\gabry\onedrive\desktop\pb\robimy\srednia.h
+
+1705926317 c:\users\gabry\onedrive\desktop\pb\robimy\ileniezdaje.h
+
+1705887867 c:\users\gabry\onedrive\desktop\pb\robimy\najlepsi.h
+
+1705926317 c:\users\gabry\onedrive\desktop\pb\robimy\zapisywanie.h
+
+1705888121 c:\users\gabry\onedrive\desktop\pb\robimy\zapiszdopliku.h
+
+1705888179 c:\users\gabry\onedrive\desktop\pb\robimy\dodajos.h
+
+1705888274 c:\users\gabry\onedrive\desktop\pb\robimy\skreslenie.h
+
+1705888325 c:\users\gabry\onedrive\desktop\pb\robimy\dodajoc.h
+
+1705888396 c:\users\gabry\onedrive\desktop\pb\robimy\edytor.h
+
+1705888548 c:\users\gabry\onedrive\desktop\pb\robimy\edycja.h
+
+1705888550 source:c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	"wypisanie.c"
+	"wczytaj.h"
+	"srednia.h"
+	"ileniezdaje.h"
+	"najlepsi.h"
+	"zapisywanie.h"
+	"zapiszdopliku.h"
+	"dodajos.h"
+	"skreslenie.h"
+	"dodajoc.h"
+	"edytor.h"
+	"edycja.h"
+
+1705887466 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\wypisanie.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+
+1705887654 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\wczytaj.h
+
+1705887736 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\srednia.h
+
+1705926318 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\ileniezdaje.h
+
+1705887868 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\najlepsi.h
+
+1705926318 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\zapisywanie.h
+
+1705888122 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\zapiszdopliku.h
+
+1724266827 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\dodajos.h
+
+1705888276 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\skreslenie.h
+
+1705888326 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\dodajoc.h
+
+1705888398 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\edytor.h
+
+1705888550 c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\edycja.h
+
+1705887466 source:c:\users\gabry\onedrive\desktop\pb\projekcik\robimy\wypisanie.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+
